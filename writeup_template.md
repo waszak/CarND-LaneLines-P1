@@ -14,8 +14,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: test_images_output/whiteCarLaneSwitch.jpg "White Car Lane Switch"
-[image2]: test_images_output/solidWhiteRight.jpg "Solid White Right"
+![Image1](test_images_output/whiteCarLaneSwitch.jpg)
+![image2](test_images_output/solidWhiteRight.jpg)
 ---
 
 ### Reflection
