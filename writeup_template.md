@@ -65,6 +65,6 @@ Distored images.
 ### 3. Suggest possible improvements to your pipeline
 
 A possible improvement would be to focus more on images contating shadows like 
-![image9](test_images/My_test.jpg)
+![image9](test_images/my_test.jpg)
 
 Another potential improvement would be camera calibration. 
